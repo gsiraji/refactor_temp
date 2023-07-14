@@ -1,0 +1,20 @@
+Parameter,Value
+diffusivity,1.30E-07
+delta_function_mode,6
+simulation_mode,1
+L,0.04
+N,32
+bead_size,0.00125
+bead_count,3
+polymerization_constant,2.00E-05
+repulsion_coefficient,2.50E-04
+interaction_range,0.00125
+depolymerization_constant,100
+initial_speed,25
+mass,1.00E-05
+inertia,1.00E-12
+time_max,2000
+force_type,Lennard-Jones
+model,stuck beads
+initial_concentration,3.30E-08
+sample_count,30
